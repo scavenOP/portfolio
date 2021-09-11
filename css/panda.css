@@ -1,5 +1,9 @@
+panda-box{
+    display: block;
+}
+
 .panda{
-    position: absolute;
+    /* position: absolute; */
     top: 50%;
     left: 47%;
     height: 120px;
