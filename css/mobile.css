@@ -61,4 +61,14 @@
     .about-text{
         padding: 40px 30px 31px 30px;
     }
+    .skillcontainer{
+    
+        margin-top: 20%;
+        text-align: center;
+    }
+    .skilllogo{
+        width: 150px;
+        height: 130px;
+    }
 }
+
