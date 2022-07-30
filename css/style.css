@@ -830,4 +830,15 @@ body { position: absolute; }
     text-shadow: 0 0 5px #ffee10; */
   }
 
+.projects{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
 
